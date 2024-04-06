@@ -1,0 +1,4 @@
+pygame-ce
+win32api
+win32con
+win32gui
